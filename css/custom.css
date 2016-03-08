@@ -1,1 +1,32 @@
 /*your custom CSS here*/
+.heading{
+	text-align:center;
+		position:relative;
+		width:100%;
+		background-color: #003366;
+		background-position: center;
+		height: 400px;
+		
+}
+h1{
+	position: absolute;
+	top: 150px;
+	left:0;
+	width:100%;
+	color: white;
+	font-size: 50px;
+}
+body{
+	background-image: url(../img/metal.jpg);
+	margin-left: auto;
+	margin-right: auto;
+	background-repeat: no-repeat;
+	background-position: center 400px;
+	background-color: #999;
+
+}
+.box{
+	width: 200px;
+	margin: 25px;
+	padding: 15px;
+}
